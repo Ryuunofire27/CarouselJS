@@ -1,0 +1,35 @@
+{
+  "name": "carousel-js",
+  "version": "1.0.0",
+  "description": "A simple slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/Ryuunofire27/CarouselJS.git"
+  },
+  "keywords": [
+    "carousel",
+    "slider"
+  ],
+  "author": "Carlos Villagomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ryuunofire27/CarouselJS/issues"
+  },
+  "homepage": "https://github.com/Ryuunofire27/CarouselJS#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
