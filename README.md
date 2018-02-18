@@ -7,7 +7,7 @@ CarouselJS is a simple way to add a slider.
 Adding the script.
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/carousel-js/dist/carousel-js.min.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/carousel-js/dist/carousel-slider-js.min.js" ></script>
 ```
 
 Or install

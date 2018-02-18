@@ -1,6 +1,6 @@
 {
-  "name": "carousel-js",
-  "version": "1.0.0",
+  "name": "carousel-slider-js",
+  "version": "1.0.1",
   "description": "A simple slider",
   "main": "index.js",
   "scripts": {
